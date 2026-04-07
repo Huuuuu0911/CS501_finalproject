@@ -26,7 +26,7 @@ fun HomeScreen(onStartClick: () -> Unit) {
         )
 
         Text(
-            text = "Find the right care based on your symptoms.",
+            text = "This app helps users choose the right level of care based on simple symptom information.",
             modifier = Modifier.padding(vertical = 16.dp)
         )
 
